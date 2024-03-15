@@ -1,0 +1,65 @@
+# Custom
+Errors.cs
+
+# Autosave files
+*~
+
+# build
+[Oo]bj/
+[Bb]in/
+packages/
+TestResults/
+
+# globs
+Makefile.in
+*.DS_Store
+*.sln.cache
+*.suo
+*.cache
+*.pidb
+*.userprefs
+*.usertasks
+*.csproj.user
+config.log
+config.make
+config.status
+aclocal.m4
+install-sh
+autom4te.cache/
+
+*.tar.gz
+tarballs/
+test-results/
+Thumbs.db
+testdb.config.json
+
+# Mac bundle stuff
+*.dmg
+*.app
+
+# resharper
+*_Resharper.*
+*.Resharper
+
+# dotCover
+*.dotCover
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+my_solution_settings.DotSettings
+
+# Visual Studio
+.vs
+# launchSettings.json
+FP.Sign.sln.startup.json
+/src/FP.Sign.sln.DotSettings.user
+*.csproj.user
+
+# Log files 
+FP.Sign.Processor.*.[0-9]*.log
+FP.Sign.Rest.*.[0-9]*.log
+DotSettings.user
+
+# VS Code
+.vscode
